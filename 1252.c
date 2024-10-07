@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int M; //modulo
+int M; //modulo 
 
 int compare(const void *a, const void *b) {
     int x = *(int *)a;
